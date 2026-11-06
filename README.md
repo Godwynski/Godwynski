@@ -29,10 +29,3 @@ I build fast, practical software — from web apps for real offices to native Wi
 | [**my-blotter-app**](https://github.com/Godwynski/my-blotter-app) | BlotterSys — barangay records portal in Next.js. Cut case lookups from 20+ min to under 30 s. |
 | [**lms**](https://github.com/Godwynski/lms) | Learning management system built with TypeScript. |
 | [**godwyn-portfolio**](https://github.com/Godwynski/godwyn-portfolio) | My portfolio site — Next.js 15. [Live →](https://godwyn-portfolio.vercel.app) |
-
-### 📊 Stats
-
-<p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Godwynski&show_icons=true&theme=transparent&hide_border=true" alt="GitHub stats">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Godwynski&layout=compact&theme=transparent&hide_border=true" alt="Top languages">
-</p>
